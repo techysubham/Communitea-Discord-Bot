@@ -1,2 +1,2 @@
-# Mino-Music-Discord-Bot
+# Communitea Discord Bot
 A Advance Discord Bot With Music , Moderation , Giveaways Etc
